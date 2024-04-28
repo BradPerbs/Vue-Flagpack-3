@@ -1,4 +1,4 @@
-# Flagpack
+# Flagpack for Vue 3
 
 Flagpack contains 260+ flag icons to easily use within your code project. Flagpack is an open source project and available for JavaScript frameworks/libraries Angular, Vue and React.
 
